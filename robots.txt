@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-pt2urq.cuckoohairheathfield.co.uk/sitemap.xml
